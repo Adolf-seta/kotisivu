@@ -3,54 +3,49 @@ body{
     margin-left: 2.5em;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
-
 }
 
 
 img.kuva{
     width: 420px;
-
 }
 
 img.kuva131{
     width: 608px;
-
 }
 
 img.kuva131v2{
     width: 795px;
-
 }
 
 img.kuvat{
     width: 250px;
-
 }
 
 img.kuvatykki{
     width: 400px;
-
 }
 
 
 img.kuvavk36{
     width: 550px;
-
 }
 
 img.kuvavk36p{
     width: 650px;
-
 }
 
 .ekalohko{
 margin-right: 30px;
-
 
 }
 
 .tokalohko{
     margin-right: 30px;
     
-    
     }
+
+.kolmaslohko{
+    margin-right: 30px;
+        
+}
